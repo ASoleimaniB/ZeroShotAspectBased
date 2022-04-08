@@ -22,7 +22,7 @@ For PubMed, you can get the data from https://github.com/armancohan/long-summari
         pip install lxml
         
         
-## Train and Test
+## Train and Test Hyperparameters
 
         python -u run_summarization.py \
         --model_name_or_path facebook/bart-base  \
